@@ -1,4 +1,4 @@
-# Ken Kout
+# KenKout
 
 <p align="center">
   <a href="https://github.com/KenKout">
@@ -84,4 +84,15 @@ Feel free to reach out to me!
 If you like my work, consider buying me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-000?&logo=buy-me-a-coffee)](https://buymeacoffee.com/kenkout)
+
+## Listening to
+<details> 
+<summary></summary>
+
+<p align="center">
+  <a href="https://github.com/KenKout">
+    <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=rqj973ybsrcomsdho9m1gw7pj&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false>
+  </a>
+</p>
+</details>
 
